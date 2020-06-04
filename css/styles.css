@@ -69,6 +69,22 @@ main {
 	opacity: 0.6;
 }
 
+/* 404 Page */
+.container-404{ 
+	min-height: 100vh;
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+   }
+   
+   .illustration {
+	   height: 700px;
+	   width: 80%;
+   }
+
+
+
 
 /* Media Queries */
 
