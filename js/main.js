@@ -1,6 +1,6 @@
 const countdown = document.querySelector('.countdown');
 
-const launchDate = new Date('July 10, 2020 13:00:00').getTime();
+const launchDate = new Date('August 10, 2020 13:00:00').getTime();
 
 
 const intvl = setInterval(() => {
